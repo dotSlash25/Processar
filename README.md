@@ -2,7 +2,7 @@
 A custom simulated cpu for Digital by Hneemann
 Can be programmed in `asm` with opcodes defined in `asm\directives.asm`
 
-# Compiling and running asm
+### Compiling and running asm
 Use the [customasm](https://github.com/hlorenzi/customasm) binary to generate the hex file.
 Preferably place the customasm executable inside `asm\` and compile with:
 ```bash
